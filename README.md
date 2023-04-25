@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ritaalamino
 - 👀 I’m interested in NLP, AI, Data Architecture and Full-stack Developing
 - 🌱 I’m currently learning Bert
-- 💞️ I’m managin projects at the UFSC Intelligence Laboratory 
+- 💞️ I’m managing projects at the UFSC Intelligence Laboratory 
 - 📫 How to reach me: linkedin.com/in/ritaalamino
 
 <!---
